@@ -22,5 +22,8 @@
 <p>🔥 "Match with Emulator--Match with Emulator"</p>
 <p>🔥 "Return to homepage--Back"</p>
 
+# Donwload File Master Here
+✅ [Download Here](https://github.com/NiarNavi/CODM-Garena-v1.6.48/releases/download/CODM-Garena-v1.6.4.8/CODM-v1648.lua)
+
 # READ THIS BEFORE USE
 > ❗️ Only for developers, if you can develop it, please build it
